@@ -1,1 +1,1 @@
-This is another text 
+GitHub Desktop provides a very convenient way to publish a local repository to GitHub. Simply click one of the two "Publish Repository" buttons on the main screen to begin.
